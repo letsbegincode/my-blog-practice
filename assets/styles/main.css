@@ -2,3 +2,10 @@ body.dark {
   background: black;
   color: white;
 }
+
+.subscribe-btn {
+  background: blue;
+  color: white;
+  padding: 10px;
+}
+
