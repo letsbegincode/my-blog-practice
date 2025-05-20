@@ -1,25 +1,7 @@
 {
-  "name": "dummy-project",
-  "version": "1.0.3",
+  "name": "my-blog-practice",
+  "version": "1.0.0",
   "dependencies": {
     "lodash": "^4.17.21"
-  },
-  "description": "📘 [Installation Guide](https://github.com/letsbegincode/my-blog-practice/wiki/Installation)",
-  "main": "index.js",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Dummy test passing ✅\" && exit 0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/letsbegincode/my-blog-practice.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/letsbegincode/my-blog-practice/issues"
-  },
-  "homepage": "https://github.com/letsbegincode/my-blog-practice#readme"
+  }
 }
